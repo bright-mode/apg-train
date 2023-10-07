@@ -1,5 +1,4 @@
-
-training_data [{"prompt": "What does the text say the purpose of the book is?", "completion": "The text says the purpose of the book is to defend Christian doctrine and the cross against objections and scoffing by non-Christians."}, 
+{"prompt": "What does the text say the purpose of the book is?", "completion": "The text says the purpose of the book is to defend Christian doctrine and the cross against objections and scoffing by non-Christians."}, 
 {"prompt": "What does the text say is the main proof of Christian doctrine?", "completion": "The text says the main proof of Christian doctrine is in its effects and results."},
 {"prompt": "What does the text say about evil?", "completion": "The text says evil is not part of the essential nature of things but originated later when mankind departed from God."},  
 {"prompt": "How does the text describe man's original creation?", "completion": "The text says man was originally created in grace and knowledge of God."},
@@ -21,6 +20,6 @@ training_data [{"prompt": "What does the text say the purpose of the book is?", 
 {"prompt": "What does the text say about the universe's order?", "completion": "The text argues the universe's single order proves a single Maker."},
 {"prompt": "How does the text portray God's Word?", "completion": "The text calls God's Word the living image of God and source of all life."},
 {"prompt": "What role does the text give God's Word in creation?", "completion": "The text portrays God's Word as the agent giving order, life, and light to all creation."},
-]
+
 
   
